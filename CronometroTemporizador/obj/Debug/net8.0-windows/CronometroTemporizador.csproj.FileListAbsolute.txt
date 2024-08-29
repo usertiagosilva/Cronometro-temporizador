@@ -1,0 +1,16 @@
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\bin\Debug\net8.0-windows\CronometroTemporizador.exe
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\bin\Debug\net8.0-windows\CronometroTemporizador.deps.json
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\bin\Debug\net8.0-windows\CronometroTemporizador.runtimeconfig.json
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\bin\Debug\net8.0-windows\CronometroTemporizador.dll
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\bin\Debug\net8.0-windows\CronometroTemporizador.pdb
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\obj\Debug\net8.0-windows\CronometroTemporizador.Form1.resources
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\obj\Debug\net8.0-windows\CronometroTemporizador.csproj.GenerateResource.cache
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\obj\Debug\net8.0-windows\CronometroTemporizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\obj\Debug\net8.0-windows\CronometroTemporizador.AssemblyInfoInputs.cache
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\obj\Debug\net8.0-windows\CronometroTemporizador.AssemblyInfo.cs
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\obj\Debug\net8.0-windows\CronometroTemporizador.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\obj\Debug\net8.0-windows\CronometroTemporizador.dll
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\obj\Debug\net8.0-windows\refint\CronometroTemporizador.dll
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\obj\Debug\net8.0-windows\CronometroTemporizador.pdb
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\obj\Debug\net8.0-windows\CronometroTemporizador.genruntimeconfig.cache
+C:\Users\Guilherme M\source\repos\CronometroTemporizador\CronometroTemporizador\obj\Debug\net8.0-windows\ref\CronometroTemporizador.dll
